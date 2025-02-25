@@ -24,7 +24,7 @@ Conçue pour être minimaliste et réactive, elle assure une utilisation rapide 
 ### Installation
 ```bash
 # Cloner le projet
-git clone 
+git clone https://git@github.com:2MJ-DEV/My-App-React.git
 cd emergency-alert
 
 # Installer les dépendances
