@@ -1,4 +1,3 @@
-import React from "react";
 import Login from "./components/Login.jsx";
 import MapComponent from "./components/MapComponent.jsx";
 import Sidebar from "./components/Sidebar.jsx";
