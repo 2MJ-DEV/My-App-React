@@ -1,11 +1,12 @@
-function App() {
-	return (
-		<>
-			<h1 className='text-3xl font-bold underline text-emerald-600'>
-				Hello world!
-			</h1>
-		</>
-	)
-}
+import React from "react";
+import Login from "./components/Login.jsx";
 
-export default App
+const App = () => {
+  return (
+    <div>
+      <Login />
+    </div>
+  );
+};
+
+export default App;
